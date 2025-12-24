@@ -7,3 +7,6 @@ yfinance
 plotly
 nbformat>=4.2.0
 xgboost
+ydata_profiling
+umap-learn
+keras-tuner
